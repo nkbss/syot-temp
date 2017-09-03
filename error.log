@@ -1,0 +1,374 @@
+[Wed Aug 30 10:35:10.422146 2017] [wsgi:error] [pid 5329:tid 139753950431104] mod_wsgi (pid=5329): Call to 'site.addsitedir()' failed for '(null)', stopping.
+[Wed Aug 30 10:35:10.422194 2017] [wsgi:error] [pid 5329:tid 139753950431104] mod_wsgi (pid=5329): Call to 'site.addsitedir()' failed for '/home/ubuntu/syot-project/env/lib/python3.6/site-packages'.
+[Wed Aug 30 10:35:14.164961 2017] [wsgi:error] [pid 5330:tid 139753848616704] [client 158.108.138.183:49165] mod_wsgi (pid=5330): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 10:35:14.165899 2017] [wsgi:error] [pid 5330:tid 139753848616704] [client 158.108.138.183:49165] mod_wsgi (pid=5330): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 10:35:14.166088 2017] [wsgi:error] [pid 5330:tid 139753848616704] [client 158.108.138.183:49165] Traceback (most recent call last):
+[Wed Aug 30 10:35:14.166110 2017] [wsgi:error] [pid 5330:tid 139753848616704] [client 158.108.138.183:49165]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 10:35:14.166114 2017] [wsgi:error] [pid 5330:tid 139753848616704] [client 158.108.138.183:49165]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 10:35:14.166127 2017] [wsgi:error] [pid 5330:tid 139753848616704] [client 158.108.138.183:49165] ImportError: No module named 'django'
+[Wed Aug 30 10:38:30.362379 2017] [wsgi:error] [pid 5459:tid 139753950431104] mod_wsgi (pid=5459): Call to 'site.addsitedir()' failed for '(null)', stopping.
+[Wed Aug 30 10:38:30.362419 2017] [wsgi:error] [pid 5459:tid 139753950431104] mod_wsgi (pid=5459): Call to 'site.addsitedir()' failed for '/home/ubuntu/syot-project/env/lib/python3.6/site-packages'.
+[Wed Aug 30 10:38:35.321893 2017] [wsgi:error] [pid 5586:tid 139697477449600] mod_wsgi (pid=5586): Call to 'site.addsitedir()' failed for '(null)', stopping.
+[Wed Aug 30 10:38:35.321937 2017] [wsgi:error] [pid 5586:tid 139697477449600] mod_wsgi (pid=5586): Call to 'site.addsitedir()' failed for '/home/ubuntu/syot-project/env/lib/python3.6/site-packages'.
+[Wed Aug 30 10:38:38.579594 2017] [wsgi:error] [pid 5587:tid 139697300961024] [client 158.108.138.183:49176] mod_wsgi (pid=5587): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 10:38:38.579640 2017] [wsgi:error] [pid 5587:tid 139697300961024] [client 158.108.138.183:49176] mod_wsgi (pid=5587): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 10:38:38.579796 2017] [wsgi:error] [pid 5587:tid 139697300961024] [client 158.108.138.183:49176] Traceback (most recent call last):
+[Wed Aug 30 10:38:38.579818 2017] [wsgi:error] [pid 5587:tid 139697300961024] [client 158.108.138.183:49176]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 10:38:38.579822 2017] [wsgi:error] [pid 5587:tid 139697300961024] [client 158.108.138.183:49176]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 10:38:38.579835 2017] [wsgi:error] [pid 5587:tid 139697300961024] [client 158.108.138.183:49176] ImportError: No module named 'django'
+[Wed Aug 30 10:45:05.606419 2017] [wsgi:error] [pid 5713:tid 139697107928832] [client 158.108.138.183:49211] mod_wsgi (pid=5713): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 10:45:05.606473 2017] [wsgi:error] [pid 5713:tid 139697107928832] [client 158.108.138.183:49211] mod_wsgi (pid=5713): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 10:45:05.606636 2017] [wsgi:error] [pid 5713:tid 139697107928832] [client 158.108.138.183:49211] Traceback (most recent call last):
+[Wed Aug 30 10:45:05.606657 2017] [wsgi:error] [pid 5713:tid 139697107928832] [client 158.108.138.183:49211]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 10:45:05.606661 2017] [wsgi:error] [pid 5713:tid 139697107928832] [client 158.108.138.183:49211]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 10:45:05.606683 2017] [wsgi:error] [pid 5713:tid 139697107928832] [client 158.108.138.183:49211] ImportError: No module named 'django'
+[Wed Aug 30 10:45:07.762388 2017] [wsgi:error] [pid 5714:tid 139697300961024] [client 158.108.138.183:49210] mod_wsgi (pid=5714): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 10:45:07.762434 2017] [wsgi:error] [pid 5714:tid 139697300961024] [client 158.108.138.183:49210] mod_wsgi (pid=5714): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 10:45:07.762592 2017] [wsgi:error] [pid 5714:tid 139697300961024] [client 158.108.138.183:49210] Traceback (most recent call last):
+[Wed Aug 30 10:45:07.762613 2017] [wsgi:error] [pid 5714:tid 139697300961024] [client 158.108.138.183:49210]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 10:45:07.762617 2017] [wsgi:error] [pid 5714:tid 139697300961024] [client 158.108.138.183:49210]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 10:45:07.762630 2017] [wsgi:error] [pid 5714:tid 139697300961024] [client 158.108.138.183:49210] ImportError: No module named 'django'
+[Wed Aug 30 10:46:44.066166 2017] [wsgi:error] [pid 5714:tid 139697292568320] [client 158.108.138.183:49219] mod_wsgi (pid=5714): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 10:46:44.066222 2017] [wsgi:error] [pid 5714:tid 139697292568320] [client 158.108.138.183:49219] mod_wsgi (pid=5714): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 10:46:44.066307 2017] [wsgi:error] [pid 5714:tid 139697292568320] [client 158.108.138.183:49219] Traceback (most recent call last):
+[Wed Aug 30 10:46:44.066327 2017] [wsgi:error] [pid 5714:tid 139697292568320] [client 158.108.138.183:49219]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 10:46:44.066330 2017] [wsgi:error] [pid 5714:tid 139697292568320] [client 158.108.138.183:49219]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 10:46:44.066345 2017] [wsgi:error] [pid 5714:tid 139697292568320] [client 158.108.138.183:49219] ImportError: No module named 'django'
+[Wed Aug 30 10:46:45.502905 2017] [wsgi:error] [pid 5714:tid 139697284175616] [client 158.108.138.183:49220] mod_wsgi (pid=5714): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 10:46:45.502961 2017] [wsgi:error] [pid 5714:tid 139697284175616] [client 158.108.138.183:49220] mod_wsgi (pid=5714): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 10:46:45.503035 2017] [wsgi:error] [pid 5714:tid 139697284175616] [client 158.108.138.183:49220] Traceback (most recent call last):
+[Wed Aug 30 10:46:45.503054 2017] [wsgi:error] [pid 5714:tid 139697284175616] [client 158.108.138.183:49220]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 10:46:45.503058 2017] [wsgi:error] [pid 5714:tid 139697284175616] [client 158.108.138.183:49220]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 10:46:45.503073 2017] [wsgi:error] [pid 5714:tid 139697284175616] [client 158.108.138.183:49220] ImportError: No module named 'django'
+[Wed Aug 30 10:50:10.649067 2017] [wsgi:error] [pid 5915:tid 139697191855872] [client 158.108.138.183:49236] mod_wsgi (pid=5915): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 10:50:10.649126 2017] [wsgi:error] [pid 5915:tid 139697191855872] [client 158.108.138.183:49236] mod_wsgi (pid=5915): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 10:50:10.649294 2017] [wsgi:error] [pid 5915:tid 139697191855872] [client 158.108.138.183:49236] Traceback (most recent call last):
+[Wed Aug 30 10:50:10.649315 2017] [wsgi:error] [pid 5915:tid 139697191855872] [client 158.108.138.183:49236]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 10:50:10.649328 2017] [wsgi:error] [pid 5915:tid 139697191855872] [client 158.108.138.183:49236]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 10:50:10.649342 2017] [wsgi:error] [pid 5915:tid 139697191855872] [client 158.108.138.183:49236] ImportError: No module named 'django'
+[Wed Aug 30 10:50:12.212821 2017] [wsgi:error] [pid 5916:tid 139697300961024] [client 158.108.138.183:49235] mod_wsgi (pid=5916): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 10:50:12.212877 2017] [wsgi:error] [pid 5916:tid 139697300961024] [client 158.108.138.183:49235] mod_wsgi (pid=5916): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 10:50:12.213046 2017] [wsgi:error] [pid 5916:tid 139697300961024] [client 158.108.138.183:49235] Traceback (most recent call last):
+[Wed Aug 30 10:50:12.213068 2017] [wsgi:error] [pid 5916:tid 139697300961024] [client 158.108.138.183:49235]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 10:50:12.213072 2017] [wsgi:error] [pid 5916:tid 139697300961024] [client 158.108.138.183:49235]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 10:50:12.213085 2017] [wsgi:error] [pid 5916:tid 139697300961024] [client 158.108.138.183:49235] ImportError: No module named 'django'
+[Wed Aug 30 10:51:08.071591 2017] [wsgi:error] [pid 5916:tid 139697292568320] [client 158.108.138.183:49244] mod_wsgi (pid=5916): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 10:51:08.071650 2017] [wsgi:error] [pid 5916:tid 139697292568320] [client 158.108.138.183:49244] mod_wsgi (pid=5916): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 10:51:08.071725 2017] [wsgi:error] [pid 5916:tid 139697292568320] [client 158.108.138.183:49244] Traceback (most recent call last):
+[Wed Aug 30 10:51:08.071746 2017] [wsgi:error] [pid 5916:tid 139697292568320] [client 158.108.138.183:49244]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 10:51:08.071749 2017] [wsgi:error] [pid 5916:tid 139697292568320] [client 158.108.138.183:49244]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 10:51:08.071765 2017] [wsgi:error] [pid 5916:tid 139697292568320] [client 158.108.138.183:49244] ImportError: No module named 'django'
+[Wed Aug 30 11:14:42.036679 2017] [wsgi:error] [pid 1512:tid 139768562149120] [client 158.108.138.183:49717] mod_wsgi (pid=1512): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 11:14:42.037259 2017] [wsgi:error] [pid 1512:tid 139768562149120] [client 158.108.138.183:49717] mod_wsgi (pid=1512): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 11:14:42.037419 2017] [wsgi:error] [pid 1512:tid 139768562149120] [client 158.108.138.183:49717] Traceback (most recent call last):
+[Wed Aug 30 11:14:42.037441 2017] [wsgi:error] [pid 1512:tid 139768562149120] [client 158.108.138.183:49717]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 11:14:42.037445 2017] [wsgi:error] [pid 1512:tid 139768562149120] [client 158.108.138.183:49717]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 11:14:42.037459 2017] [wsgi:error] [pid 1512:tid 139768562149120] [client 158.108.138.183:49717] ImportError: No module named 'django'
+[Wed Aug 30 11:19:18.888429 2017] [wsgi:error] [pid 1512:tid 139768553756416] [client 158.108.138.183:49747] mod_wsgi (pid=1512): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 11:19:18.888487 2017] [wsgi:error] [pid 1512:tid 139768553756416] [client 158.108.138.183:49747] mod_wsgi (pid=1512): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 11:19:18.888574 2017] [wsgi:error] [pid 1512:tid 139768553756416] [client 158.108.138.183:49747] Traceback (most recent call last):
+[Wed Aug 30 11:19:18.888594 2017] [wsgi:error] [pid 1512:tid 139768553756416] [client 158.108.138.183:49747]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 11:19:18.888597 2017] [wsgi:error] [pid 1512:tid 139768553756416] [client 158.108.138.183:49747]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 11:19:18.888624 2017] [wsgi:error] [pid 1512:tid 139768553756416] [client 158.108.138.183:49747] ImportError: No module named 'django'
+[Wed Aug 30 11:19:20.428857 2017] [wsgi:error] [pid 1557:tid 139768604112640] [client 158.108.138.183:49748] mod_wsgi (pid=1557): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 11:19:20.428903 2017] [wsgi:error] [pid 1557:tid 139768604112640] [client 158.108.138.183:49748] mod_wsgi (pid=1557): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 11:19:20.429079 2017] [wsgi:error] [pid 1557:tid 139768604112640] [client 158.108.138.183:49748] Traceback (most recent call last):
+[Wed Aug 30 11:19:20.429100 2017] [wsgi:error] [pid 1557:tid 139768604112640] [client 158.108.138.183:49748]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 11:19:20.429104 2017] [wsgi:error] [pid 1557:tid 139768604112640] [client 158.108.138.183:49748]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 11:19:20.429129 2017] [wsgi:error] [pid 1557:tid 139768604112640] [client 158.108.138.183:49748] ImportError: No module named 'django'
+[Wed Aug 30 11:19:32.215998 2017] [wsgi:error] [pid 1712:tid 139768718157568] [remote 158.108.138.183:18793] mod_wsgi (pid=1712): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 11:19:32.216049 2017] [wsgi:error] [pid 1712:tid 139768718157568] [remote 158.108.138.183:18793] mod_wsgi (pid=1712): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 11:19:32.216209 2017] [wsgi:error] [pid 1712:tid 139768718157568] [remote 158.108.138.183:18793] Traceback (most recent call last):
+[Wed Aug 30 11:19:32.216230 2017] [wsgi:error] [pid 1712:tid 139768718157568] [remote 158.108.138.183:18793]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 11:19:32.216235 2017] [wsgi:error] [pid 1712:tid 139768718157568] [remote 158.108.138.183:18793]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 11:19:32.216248 2017] [wsgi:error] [pid 1712:tid 139768718157568] [remote 158.108.138.183:18793] ImportError: No module named 'django'
+[Wed Aug 30 11:22:57.796891 2017] [wsgi:error] [pid 1850:tid 139768718157568] [remote 158.108.138.183:18793] mod_wsgi (pid=1850): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 11:22:57.796948 2017] [wsgi:error] [pid 1850:tid 139768718157568] [remote 158.108.138.183:18793] mod_wsgi (pid=1850): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 11:22:57.797121 2017] [wsgi:error] [pid 1850:tid 139768718157568] [remote 158.108.138.183:18793] Traceback (most recent call last):
+[Wed Aug 30 11:22:57.797167 2017] [wsgi:error] [pid 1850:tid 139768718157568] [remote 158.108.138.183:18793]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 11:22:57.797185 2017] [wsgi:error] [pid 1850:tid 139768718157568] [remote 158.108.138.183:18793]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 11:22:57.797203 2017] [wsgi:error] [pid 1850:tid 139768718157568] [remote 158.108.138.183:18793] ImportError: No module named 'django'
+[Wed Aug 30 11:30:03.899889 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 158.108.138.183:18793] mod_wsgi (pid=2039): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 11:30:03.899948 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 158.108.138.183:18793] mod_wsgi (pid=2039): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 11:30:03.900116 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 158.108.138.183:18793] Traceback (most recent call last):
+[Wed Aug 30 11:30:03.900138 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 158.108.138.183:18793]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 11:30:03.900142 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 158.108.138.183:18793]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 11:30:03.900155 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 158.108.138.183:18793] ImportError: No module named 'django'
+[Wed Aug 30 11:30:05.071240 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 158.108.138.183:17513] mod_wsgi (pid=2039): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 11:30:05.071295 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 158.108.138.183:17513] mod_wsgi (pid=2039): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 11:30:05.071369 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 158.108.138.183:17513] Traceback (most recent call last):
+[Wed Aug 30 11:30:05.071388 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 158.108.138.183:17513]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 11:30:05.071391 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 158.108.138.183:17513]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 11:30:05.071406 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 158.108.138.183:17513] ImportError: No module named 'django'
+[Wed Aug 30 14:38:37.699063 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:17513] mod_wsgi (pid=2039): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 14:38:37.699122 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:17513] mod_wsgi (pid=2039): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 14:38:37.699193 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:17513] Traceback (most recent call last):
+[Wed Aug 30 14:38:37.699212 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:17513]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 14:38:37.699216 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:17513]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 14:38:37.699232 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:17513] ImportError: No module named 'django'
+[Wed Aug 30 14:38:38.069951 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:12393] mod_wsgi (pid=2039): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 14:38:38.070012 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:12393] mod_wsgi (pid=2039): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 14:38:38.070092 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:12393] Traceback (most recent call last):
+[Wed Aug 30 14:38:38.070111 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:12393]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 14:38:38.070115 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:12393]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 14:38:38.070131 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:12393] ImportError: No module named 'django'
+[Wed Aug 30 14:47:00.644364 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:18537] mod_wsgi (pid=2039): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 14:47:00.644419 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:18537] mod_wsgi (pid=2039): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 14:47:00.644492 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:18537] Traceback (most recent call last):
+[Wed Aug 30 14:47:00.644511 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:18537]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 14:47:00.644515 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:18537]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 14:47:00.644531 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:18537] ImportError: No module named 'django'
+[Wed Aug 30 14:47:00.853499 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:18793] mod_wsgi (pid=2039): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 14:47:00.853544 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:18793] mod_wsgi (pid=2039): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 14:47:00.853615 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:18793] Traceback (most recent call last):
+[Wed Aug 30 14:47:00.853635 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:18793]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 14:47:00.853639 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:18793]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 14:47:00.853654 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:18793] ImportError: No module named 'django'
+[Wed Aug 30 14:52:08.281281 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:18793] mod_wsgi (pid=2039): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 14:52:08.281337 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:18793] mod_wsgi (pid=2039): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 14:52:08.281413 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:18793] Traceback (most recent call last):
+[Wed Aug 30 14:52:08.281433 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:18793]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 14:52:08.281437 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:18793]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 14:52:08.281453 2017] [wsgi:error] [pid 2039:tid 139768701355776] [remote 27.145.142.207:18793] ImportError: No module named 'django'
+[Wed Aug 30 14:52:08.727115 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:12393] mod_wsgi (pid=2039): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 14:52:08.727160 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:12393] mod_wsgi (pid=2039): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 14:52:08.727232 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:12393] Traceback (most recent call last):
+[Wed Aug 30 14:52:08.727252 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:12393]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 14:52:08.727269 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:12393]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 14:52:08.727285 2017] [wsgi:error] [pid 2039:tid 139768718157568] [remote 27.145.142.207:12393] ImportError: No module named 'django'
+[Wed Aug 30 14:54:32.952083 2017] [wsgi:error] [pid 2767:tid 139768726566656] [client 27.145.142.207:50605] mod_wsgi (pid=2767): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 14:54:32.952133 2017] [wsgi:error] [pid 2767:tid 139768726566656] [client 27.145.142.207:50605] mod_wsgi (pid=2767): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 14:54:32.952279 2017] [wsgi:error] [pid 2767:tid 139768726566656] [client 27.145.142.207:50605] Traceback (most recent call last):
+[Wed Aug 30 14:54:32.952301 2017] [wsgi:error] [pid 2767:tid 139768726566656] [client 27.145.142.207:50605]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 14:54:32.952305 2017] [wsgi:error] [pid 2767:tid 139768726566656] [client 27.145.142.207:50605]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 14:54:32.952318 2017] [wsgi:error] [pid 2767:tid 139768726566656] [client 27.145.142.207:50605] ImportError: No module named 'django'
+[Wed Aug 30 14:54:33.065948 2017] [wsgi:error] [pid 2766:tid 139768726566656] [client 27.145.142.207:51103] mod_wsgi (pid=2766): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 14:54:33.065998 2017] [wsgi:error] [pid 2766:tid 139768726566656] [client 27.145.142.207:51103] mod_wsgi (pid=2766): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 14:54:33.066150 2017] [wsgi:error] [pid 2766:tid 139768726566656] [client 27.145.142.207:51103] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 14:54:33.066172 2017] [wsgi:error] [pid 2766:tid 139768726566656] [client 27.145.142.207:51103]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 14:54:33.066177 2017] [wsgi:error] [pid 2766:tid 139768726566656] [client 27.145.142.207:51103]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 14:54:33.066191 2017] [wsgi:error] [pid 2766:tid 139768726566656] [client 27.145.142.207:51103] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 14:54:39.183083 2017] [wsgi:error] [pid 2766:tid 139768718173952] [client 27.145.142.207:50606] mod_wsgi (pid=2766): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 14:54:39.183138 2017] [wsgi:error] [pid 2766:tid 139768718173952] [client 27.145.142.207:50606] mod_wsgi (pid=2766): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 14:54:39.183214 2017] [wsgi:error] [pid 2766:tid 139768718173952] [client 27.145.142.207:50606] Traceback (most recent call last):
+[Wed Aug 30 14:54:39.183233 2017] [wsgi:error] [pid 2766:tid 139768718173952] [client 27.145.142.207:50606]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 14:54:39.183237 2017] [wsgi:error] [pid 2766:tid 139768718173952] [client 27.145.142.207:50606]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 14:54:39.183252 2017] [wsgi:error] [pid 2766:tid 139768718173952] [client 27.145.142.207:50606] ImportError: No module named 'django'
+[Wed Aug 30 14:54:39.279821 2017] [wsgi:error] [pid 2766:tid 139768637683456] [client 27.145.142.207:17679] mod_wsgi (pid=2766): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 14:54:39.279870 2017] [wsgi:error] [pid 2766:tid 139768637683456] [client 27.145.142.207:17679] mod_wsgi (pid=2766): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 14:54:39.279959 2017] [wsgi:error] [pid 2766:tid 139768637683456] [client 27.145.142.207:17679] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 14:54:39.279979 2017] [wsgi:error] [pid 2766:tid 139768637683456] [client 27.145.142.207:17679]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 14:54:39.279983 2017] [wsgi:error] [pid 2766:tid 139768637683456] [client 27.145.142.207:17679]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 14:54:39.279998 2017] [wsgi:error] [pid 2766:tid 139768637683456] [client 27.145.142.207:17679] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:01:54.738157 2017] [wsgi:error] [pid 2766:tid 139768629290752] [client 27.145.142.207:50654] mod_wsgi (pid=2766): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:01:54.738211 2017] [wsgi:error] [pid 2766:tid 139768629290752] [client 27.145.142.207:50654] mod_wsgi (pid=2766): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:01:54.738288 2017] [wsgi:error] [pid 2766:tid 139768629290752] [client 27.145.142.207:50654] Traceback (most recent call last):
+[Wed Aug 30 15:01:54.738308 2017] [wsgi:error] [pid 2766:tid 139768629290752] [client 27.145.142.207:50654]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:01:54.738313 2017] [wsgi:error] [pid 2766:tid 139768629290752] [client 27.145.142.207:50654]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:01:54.738328 2017] [wsgi:error] [pid 2766:tid 139768629290752] [client 27.145.142.207:50654] ImportError: No module named 'django'
+[Wed Aug 30 15:01:54.878043 2017] [wsgi:error] [pid 2767:tid 139768495007488] [client 27.145.142.207:19170] mod_wsgi (pid=2767): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:01:54.878096 2017] [wsgi:error] [pid 2767:tid 139768495007488] [client 27.145.142.207:19170] mod_wsgi (pid=2767): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:01:54.878166 2017] [wsgi:error] [pid 2767:tid 139768495007488] [client 27.145.142.207:19170] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:01:54.878185 2017] [wsgi:error] [pid 2767:tid 139768495007488] [client 27.145.142.207:19170]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:01:54.878189 2017] [wsgi:error] [pid 2767:tid 139768495007488] [client 27.145.142.207:19170]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:01:54.878203 2017] [wsgi:error] [pid 2767:tid 139768495007488] [client 27.145.142.207:19170] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:02:12.672843 2017] [wsgi:error] [pid 2942:tid 139768612505344] [client 27.145.142.207:50657] mod_wsgi (pid=2942): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:02:12.672897 2017] [wsgi:error] [pid 2942:tid 139768612505344] [client 27.145.142.207:50657] mod_wsgi (pid=2942): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:02:12.673062 2017] [wsgi:error] [pid 2942:tid 139768612505344] [client 27.145.142.207:50657] Traceback (most recent call last):
+[Wed Aug 30 15:02:12.673084 2017] [wsgi:error] [pid 2942:tid 139768612505344] [client 27.145.142.207:50657]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:02:12.673096 2017] [wsgi:error] [pid 2942:tid 139768612505344] [client 27.145.142.207:50657]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:02:12.673110 2017] [wsgi:error] [pid 2942:tid 139768612505344] [client 27.145.142.207:50657] ImportError: No module named 'django'
+[Wed Aug 30 15:02:12.839158 2017] [wsgi:error] [pid 2941:tid 139768545363712] [client 27.145.142.207:19823] mod_wsgi (pid=2941): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:02:12.839210 2017] [wsgi:error] [pid 2941:tid 139768545363712] [client 27.145.142.207:19823] mod_wsgi (pid=2941): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:02:12.839372 2017] [wsgi:error] [pid 2941:tid 139768545363712] [client 27.145.142.207:19823] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:02:12.839394 2017] [wsgi:error] [pid 2941:tid 139768545363712] [client 27.145.142.207:19823]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:02:12.839398 2017] [wsgi:error] [pid 2941:tid 139768545363712] [client 27.145.142.207:19823]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:02:12.839412 2017] [wsgi:error] [pid 2941:tid 139768545363712] [client 27.145.142.207:19823] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:13:58.907957 2017] [wsgi:error] [pid 3212:tid 139768545363712] [client 27.145.142.207:50711] mod_wsgi (pid=3212): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:13:58.908000 2017] [wsgi:error] [pid 3212:tid 139768545363712] [client 27.145.142.207:50711] mod_wsgi (pid=3212): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:13:58.908172 2017] [wsgi:error] [pid 3212:tid 139768545363712] [client 27.145.142.207:50711] Traceback (most recent call last):
+[Wed Aug 30 15:13:58.908194 2017] [wsgi:error] [pid 3212:tid 139768545363712] [client 27.145.142.207:50711]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:13:58.908198 2017] [wsgi:error] [pid 3212:tid 139768545363712] [client 27.145.142.207:50711]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:13:58.908212 2017] [wsgi:error] [pid 3212:tid 139768545363712] [client 27.145.142.207:50711] ImportError: No module named 'django'
+[Wed Aug 30 15:13:59.073274 2017] [wsgi:error] [pid 3257:tid 139768604112640] [client 27.145.142.207:26538] mod_wsgi (pid=3257): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:13:59.073332 2017] [wsgi:error] [pid 3257:tid 139768604112640] [client 27.145.142.207:26538] mod_wsgi (pid=3257): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:13:59.073497 2017] [wsgi:error] [pid 3257:tid 139768604112640] [client 27.145.142.207:26538] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:13:59.073519 2017] [wsgi:error] [pid 3257:tid 139768604112640] [client 27.145.142.207:26538]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:13:59.073524 2017] [wsgi:error] [pid 3257:tid 139768604112640] [client 27.145.142.207:26538]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:13:59.073538 2017] [wsgi:error] [pid 3257:tid 139768604112640] [client 27.145.142.207:26538] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:14:08.548873 2017] [wsgi:error] [pid 3340:tid 140444959811328] [client 27.145.142.207:50712] mod_wsgi (pid=3340): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:14:08.548931 2017] [wsgi:error] [pid 3340:tid 140444959811328] [client 27.145.142.207:50712] mod_wsgi (pid=3340): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:14:08.549082 2017] [wsgi:error] [pid 3340:tid 140444959811328] [client 27.145.142.207:50712] Traceback (most recent call last):
+[Wed Aug 30 15:14:08.549103 2017] [wsgi:error] [pid 3340:tid 140444959811328] [client 27.145.142.207:50712]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:14:08.549106 2017] [wsgi:error] [pid 3340:tid 140444959811328] [client 27.145.142.207:50712]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:14:08.549120 2017] [wsgi:error] [pid 3340:tid 140444959811328] [client 27.145.142.207:50712] ImportError: No module named 'django'
+[Wed Aug 30 15:14:08.676187 2017] [wsgi:error] [pid 3339:tid 140444959811328] [client 27.145.142.207:7115] mod_wsgi (pid=3339): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:14:08.676236 2017] [wsgi:error] [pid 3339:tid 140444959811328] [client 27.145.142.207:7115] mod_wsgi (pid=3339): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:14:08.676399 2017] [wsgi:error] [pid 3339:tid 140444959811328] [client 27.145.142.207:7115] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:14:08.676421 2017] [wsgi:error] [pid 3339:tid 140444959811328] [client 27.145.142.207:7115]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:14:08.676425 2017] [wsgi:error] [pid 3339:tid 140444959811328] [client 27.145.142.207:7115]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:14:08.676438 2017] [wsgi:error] [pid 3339:tid 140444959811328] [client 27.145.142.207:7115] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:16:01.738180 2017] [wsgi:error] [pid 3339:tid 140444951418624] [client 27.145.142.207:50720] mod_wsgi (pid=3339): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:16:01.738239 2017] [wsgi:error] [pid 3339:tid 140444951418624] [client 27.145.142.207:50720] mod_wsgi (pid=3339): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:16:01.738314 2017] [wsgi:error] [pid 3339:tid 140444951418624] [client 27.145.142.207:50720] Traceback (most recent call last):
+[Wed Aug 30 15:16:01.738333 2017] [wsgi:error] [pid 3339:tid 140444951418624] [client 27.145.142.207:50720]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:16:01.738337 2017] [wsgi:error] [pid 3339:tid 140444951418624] [client 27.145.142.207:50720]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:16:01.738353 2017] [wsgi:error] [pid 3339:tid 140444951418624] [client 27.145.142.207:50720] ImportError: No module named 'django'
+[Wed Aug 30 15:16:01.897896 2017] [wsgi:error] [pid 3339:tid 140444943025920] [client 27.145.142.207:27881] mod_wsgi (pid=3339): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:16:01.897942 2017] [wsgi:error] [pid 3339:tid 140444943025920] [client 27.145.142.207:27881] mod_wsgi (pid=3339): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:16:01.898019 2017] [wsgi:error] [pid 3339:tid 140444943025920] [client 27.145.142.207:27881] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:16:01.898043 2017] [wsgi:error] [pid 3339:tid 140444943025920] [client 27.145.142.207:27881]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:16:01.898057 2017] [wsgi:error] [pid 3339:tid 140444943025920] [client 27.145.142.207:27881]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:16:01.898075 2017] [wsgi:error] [pid 3339:tid 140444943025920] [client 27.145.142.207:27881] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:17:01.197419 2017] [wsgi:error] [pid 3529:tid 140444959811328] [client 27.145.142.207:50727] mod_wsgi (pid=3529): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:17:01.197477 2017] [wsgi:error] [pid 3529:tid 140444959811328] [client 27.145.142.207:50727] mod_wsgi (pid=3529): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:17:01.197648 2017] [wsgi:error] [pid 3529:tid 140444959811328] [client 27.145.142.207:50727] Traceback (most recent call last):
+[Wed Aug 30 15:17:01.197669 2017] [wsgi:error] [pid 3529:tid 140444959811328] [client 27.145.142.207:50727]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:17:01.197673 2017] [wsgi:error] [pid 3529:tid 140444959811328] [client 27.145.142.207:50727]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:17:01.197687 2017] [wsgi:error] [pid 3529:tid 140444959811328] [client 27.145.142.207:50727] ImportError: No module named 'django'
+[Wed Aug 30 15:17:01.311707 2017] [wsgi:error] [pid 3528:tid 140444692313856] [client 27.145.142.207:24099] mod_wsgi (pid=3528): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:17:01.311757 2017] [wsgi:error] [pid 3528:tid 140444692313856] [client 27.145.142.207:24099] mod_wsgi (pid=3528): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:17:01.311918 2017] [wsgi:error] [pid 3528:tid 140444692313856] [client 27.145.142.207:24099] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:17:01.311940 2017] [wsgi:error] [pid 3528:tid 140444692313856] [client 27.145.142.207:24099]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:17:01.311945 2017] [wsgi:error] [pid 3528:tid 140444692313856] [client 27.145.142.207:24099]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:17:01.311959 2017] [wsgi:error] [pid 3528:tid 140444692313856] [client 27.145.142.207:24099] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:26:59.002135 2017] [wsgi:error] [pid 3742:tid 140444959811328] [client 27.145.142.207:50817] mod_wsgi (pid=3742): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:26:59.002189 2017] [wsgi:error] [pid 3742:tid 140444959811328] [client 27.145.142.207:50817] mod_wsgi (pid=3742): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:26:59.002342 2017] [wsgi:error] [pid 3742:tid 140444959811328] [client 27.145.142.207:50817] Traceback (most recent call last):
+[Wed Aug 30 15:26:59.002363 2017] [wsgi:error] [pid 3742:tid 140444959811328] [client 27.145.142.207:50817]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:26:59.002368 2017] [wsgi:error] [pid 3742:tid 140444959811328] [client 27.145.142.207:50817]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:26:59.002381 2017] [wsgi:error] [pid 3742:tid 140444959811328] [client 27.145.142.207:50817] ImportError: No module named 'django'
+[Wed Aug 30 15:26:59.188876 2017] [wsgi:error] [pid 3741:tid 140444959811328] [client 27.145.142.207:54362] mod_wsgi (pid=3741): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:26:59.188934 2017] [wsgi:error] [pid 3741:tid 140444959811328] [client 27.145.142.207:54362] mod_wsgi (pid=3741): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:26:59.189094 2017] [wsgi:error] [pid 3741:tid 140444959811328] [client 27.145.142.207:54362] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:26:59.189116 2017] [wsgi:error] [pid 3741:tid 140444959811328] [client 27.145.142.207:54362]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:26:59.189119 2017] [wsgi:error] [pid 3741:tid 140444959811328] [client 27.145.142.207:54362]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:26:59.189133 2017] [wsgi:error] [pid 3741:tid 140444959811328] [client 27.145.142.207:54362] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:33:22.912500 2017] [wsgi:error] [pid 3882:tid 140444959811328] [client 27.145.142.207:50926] mod_wsgi (pid=3882): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:33:22.912563 2017] [wsgi:error] [pid 3882:tid 140444959811328] [client 27.145.142.207:50926] mod_wsgi (pid=3882): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:33:22.912719 2017] [wsgi:error] [pid 3882:tid 140444959811328] [client 27.145.142.207:50926] Traceback (most recent call last):
+[Wed Aug 30 15:33:22.912741 2017] [wsgi:error] [pid 3882:tid 140444959811328] [client 27.145.142.207:50926]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:33:22.912744 2017] [wsgi:error] [pid 3882:tid 140444959811328] [client 27.145.142.207:50926]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:33:22.912758 2017] [wsgi:error] [pid 3882:tid 140444959811328] [client 27.145.142.207:50926] ImportError: No module named 'django'
+[Wed Aug 30 15:33:23.087884 2017] [wsgi:error] [pid 3883:tid 140444959811328] [client 27.145.142.207:37892] mod_wsgi (pid=3883): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:33:23.087931 2017] [wsgi:error] [pid 3883:tid 140444959811328] [client 27.145.142.207:37892] mod_wsgi (pid=3883): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:33:23.088078 2017] [wsgi:error] [pid 3883:tid 140444959811328] [client 27.145.142.207:37892] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:33:23.088100 2017] [wsgi:error] [pid 3883:tid 140444959811328] [client 27.145.142.207:37892]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:33:23.088104 2017] [wsgi:error] [pid 3883:tid 140444959811328] [client 27.145.142.207:37892]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:33:23.088117 2017] [wsgi:error] [pid 3883:tid 140444959811328] [client 27.145.142.207:37892] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:33:24.810600 2017] [wsgi:error] [pid 3882:tid 140444951418624] [client 27.145.142.207:50927] mod_wsgi (pid=3882): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:33:24.810654 2017] [wsgi:error] [pid 3882:tid 140444951418624] [client 27.145.142.207:50927] mod_wsgi (pid=3882): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:33:24.810728 2017] [wsgi:error] [pid 3882:tid 140444951418624] [client 27.145.142.207:50927] Traceback (most recent call last):
+[Wed Aug 30 15:33:24.810758 2017] [wsgi:error] [pid 3882:tid 140444951418624] [client 27.145.142.207:50927]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:33:24.810762 2017] [wsgi:error] [pid 3882:tid 140444951418624] [client 27.145.142.207:50927]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:33:24.810778 2017] [wsgi:error] [pid 3882:tid 140444951418624] [client 27.145.142.207:50927] ImportError: No module named 'django'
+[Wed Aug 30 15:33:24.895142 2017] [wsgi:error] [pid 3882:tid 140444943025920] [client 27.145.142.207:17655] mod_wsgi (pid=3882): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:33:24.895192 2017] [wsgi:error] [pid 3882:tid 140444943025920] [client 27.145.142.207:17655] mod_wsgi (pid=3882): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:33:24.895265 2017] [wsgi:error] [pid 3882:tid 140444943025920] [client 27.145.142.207:17655] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:33:24.895287 2017] [wsgi:error] [pid 3882:tid 140444943025920] [client 27.145.142.207:17655]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:33:24.895291 2017] [wsgi:error] [pid 3882:tid 140444943025920] [client 27.145.142.207:17655]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:33:24.895307 2017] [wsgi:error] [pid 3882:tid 140444943025920] [client 27.145.142.207:17655] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:43:48.948340 2017] [wsgi:error] [pid 4113:tid 140444959811328] [client 27.145.142.207:50988] mod_wsgi (pid=4113): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:43:48.948397 2017] [wsgi:error] [pid 4113:tid 140444959811328] [client 27.145.142.207:50988] mod_wsgi (pid=4113): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:43:48.948566 2017] [wsgi:error] [pid 4113:tid 140444959811328] [client 27.145.142.207:50988] Traceback (most recent call last):
+[Wed Aug 30 15:43:48.948588 2017] [wsgi:error] [pid 4113:tid 140444959811328] [client 27.145.142.207:50988]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:43:48.948592 2017] [wsgi:error] [pid 4113:tid 140444959811328] [client 27.145.142.207:50988]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:43:48.948606 2017] [wsgi:error] [pid 4113:tid 140444959811328] [client 27.145.142.207:50988] ImportError: No module named 'django'
+[Wed Aug 30 15:43:49.321708 2017] [wsgi:error] [pid 4112:tid 140444784633600] [client 27.145.142.207:39290] mod_wsgi (pid=4112): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:43:49.321761 2017] [wsgi:error] [pid 4112:tid 140444784633600] [client 27.145.142.207:39290] mod_wsgi (pid=4112): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:43:49.321919 2017] [wsgi:error] [pid 4112:tid 140444784633600] [client 27.145.142.207:39290] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:43:49.321941 2017] [wsgi:error] [pid 4112:tid 140444784633600] [client 27.145.142.207:39290]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:43:49.321946 2017] [wsgi:error] [pid 4112:tid 140444784633600] [client 27.145.142.207:39290]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:43:49.321960 2017] [wsgi:error] [pid 4112:tid 140444784633600] [client 27.145.142.207:39290] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:43:50.360858 2017] [wsgi:error] [pid 4113:tid 140444951418624] [client 27.145.142.207:50989] mod_wsgi (pid=4113): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:43:50.360923 2017] [wsgi:error] [pid 4113:tid 140444951418624] [client 27.145.142.207:50989] mod_wsgi (pid=4113): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:43:50.360996 2017] [wsgi:error] [pid 4113:tid 140444951418624] [client 27.145.142.207:50989] Traceback (most recent call last):
+[Wed Aug 30 15:43:50.361016 2017] [wsgi:error] [pid 4113:tid 140444951418624] [client 27.145.142.207:50989]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:43:50.361019 2017] [wsgi:error] [pid 4113:tid 140444951418624] [client 27.145.142.207:50989]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:43:50.361033 2017] [wsgi:error] [pid 4113:tid 140444951418624] [client 27.145.142.207:50989] ImportError: No module named 'django'
+[Wed Aug 30 15:43:50.766666 2017] [wsgi:error] [pid 4113:tid 140444943025920] [client 27.145.142.207:27885] mod_wsgi (pid=4113): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:43:50.766713 2017] [wsgi:error] [pid 4113:tid 140444943025920] [client 27.145.142.207:27885] mod_wsgi (pid=4113): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:43:50.766787 2017] [wsgi:error] [pid 4113:tid 140444943025920] [client 27.145.142.207:27885] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:43:50.766811 2017] [wsgi:error] [pid 4113:tid 140444943025920] [client 27.145.142.207:27885]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:43:50.766815 2017] [wsgi:error] [pid 4113:tid 140444943025920] [client 27.145.142.207:27885]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:43:50.766832 2017] [wsgi:error] [pid 4113:tid 140444943025920] [client 27.145.142.207:27885] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:49:19.566539 2017] [wsgi:error] [pid 4223:tid 140445061625728] mod_wsgi (pid=4223): Call to 'site.addsitedir()' failed for '(null)', stopping.
+[Wed Aug 30 15:49:19.566574 2017] [wsgi:error] [pid 4223:tid 140445061625728] mod_wsgi (pid=4223): Call to 'site.addsitedir()' failed for '/home/ubuntu/syot-project/env/lib/python3.6/site-packages'.
+[Wed Aug 30 15:49:25.269384 2017] [wsgi:error] [pid 4224:tid 140444692313856] [client 27.145.142.207:51013] mod_wsgi (pid=4224): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:49:25.269428 2017] [wsgi:error] [pid 4224:tid 140444692313856] [client 27.145.142.207:51013] mod_wsgi (pid=4224): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:49:25.269596 2017] [wsgi:error] [pid 4224:tid 140444692313856] [client 27.145.142.207:51013] Traceback (most recent call last):
+[Wed Aug 30 15:49:25.269615 2017] [wsgi:error] [pid 4224:tid 140444692313856] [client 27.145.142.207:51013]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:49:25.269619 2017] [wsgi:error] [pid 4224:tid 140444692313856] [client 27.145.142.207:51013]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:49:25.269631 2017] [wsgi:error] [pid 4224:tid 140444692313856] [client 27.145.142.207:51013] ImportError: No module named 'django'
+[Wed Aug 30 15:49:25.442999 2017] [wsgi:error] [pid 4225:tid 140444959811328] [client 27.145.142.207:64090] mod_wsgi (pid=4225): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:49:25.443055 2017] [wsgi:error] [pid 4225:tid 140444959811328] [client 27.145.142.207:64090] mod_wsgi (pid=4225): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:49:25.443216 2017] [wsgi:error] [pid 4225:tid 140444959811328] [client 27.145.142.207:64090] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:49:25.443237 2017] [wsgi:error] [pid 4225:tid 140444959811328] [client 27.145.142.207:64090]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:49:25.443241 2017] [wsgi:error] [pid 4225:tid 140444959811328] [client 27.145.142.207:64090]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:49:25.443254 2017] [wsgi:error] [pid 4225:tid 140444959811328] [client 27.145.142.207:64090] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:16.029331 2017] [wsgi:error] [pid 24069:tid 140340924512128] mod_wsgi (pid=24069): Call to 'site.addsitedir()' failed for '(null)', stopping.
+[Wed Aug 30 15:52:16.029380 2017] [wsgi:error] [pid 24069:tid 140340924512128] mod_wsgi (pid=24069): Call to 'site.addsitedir()' failed for '/home/ubuntu/syot-project/env/lib/python3.6/site-packages'.
+[Wed Aug 30 15:52:18.677413 2017] [wsgi:error] [pid 24071:tid 140340648429312] [client 27.145.142.207:51023] mod_wsgi (pid=24071): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:52:18.677468 2017] [wsgi:error] [pid 24071:tid 140340648429312] [client 27.145.142.207:51023] mod_wsgi (pid=24071): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:52:18.677647 2017] [wsgi:error] [pid 24071:tid 140340648429312] [client 27.145.142.207:51023] Traceback (most recent call last):
+[Wed Aug 30 15:52:18.677669 2017] [wsgi:error] [pid 24071:tid 140340648429312] [client 27.145.142.207:51023]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:52:18.677673 2017] [wsgi:error] [pid 24071:tid 140340648429312] [client 27.145.142.207:51023]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:52:18.677687 2017] [wsgi:error] [pid 24071:tid 140340648429312] [client 27.145.142.207:51023] ImportError: No module named 'django'
+[Wed Aug 30 15:52:18.789588 2017] [wsgi:error] [pid 24070:tid 140340822697728] [client 27.145.142.207:33677] mod_wsgi (pid=24070): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:18.789645 2017] [wsgi:error] [pid 24070:tid 140340822697728] [client 27.145.142.207:33677] mod_wsgi (pid=24070): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:18.789817 2017] [wsgi:error] [pid 24070:tid 140340822697728] [client 27.145.142.207:33677] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:18.789840 2017] [wsgi:error] [pid 24070:tid 140340822697728] [client 27.145.142.207:33677]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:18.789844 2017] [wsgi:error] [pid 24070:tid 140340822697728] [client 27.145.142.207:33677]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:18.789859 2017] [wsgi:error] [pid 24070:tid 140340822697728] [client 27.145.142.207:33677] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:19.987340 2017] [wsgi:error] [pid 24070:tid 140340656822016] [client 27.145.142.207:51025] mod_wsgi (pid=24070): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:52:19.987404 2017] [wsgi:error] [pid 24070:tid 140340656822016] [client 27.145.142.207:51025] mod_wsgi (pid=24070): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:52:19.987482 2017] [wsgi:error] [pid 24070:tid 140340656822016] [client 27.145.142.207:51025] Traceback (most recent call last):
+[Wed Aug 30 15:52:19.987502 2017] [wsgi:error] [pid 24070:tid 140340656822016] [client 27.145.142.207:51025]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:52:19.987506 2017] [wsgi:error] [pid 24070:tid 140340656822016] [client 27.145.142.207:51025]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:52:19.987521 2017] [wsgi:error] [pid 24070:tid 140340656822016] [client 27.145.142.207:51025] ImportError: No module named 'django'
+[Wed Aug 30 15:52:20.077375 2017] [wsgi:error] [pid 24071:tid 140340640036608] [client 27.145.142.207:45181] mod_wsgi (pid=24071): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:20.077431 2017] [wsgi:error] [pid 24071:tid 140340640036608] [client 27.145.142.207:45181] mod_wsgi (pid=24071): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:20.077509 2017] [wsgi:error] [pid 24071:tid 140340640036608] [client 27.145.142.207:45181] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:20.077529 2017] [wsgi:error] [pid 24071:tid 140340640036608] [client 27.145.142.207:45181]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:20.077533 2017] [wsgi:error] [pid 24071:tid 140340640036608] [client 27.145.142.207:45181]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:20.077548 2017] [wsgi:error] [pid 24071:tid 140340640036608] [client 27.145.142.207:45181] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:21.543651 2017] [wsgi:error] [pid 24070:tid 140340572894976] [client 27.145.142.207:51027] mod_wsgi (pid=24070): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:52:21.543701 2017] [wsgi:error] [pid 24070:tid 140340572894976] [client 27.145.142.207:51027] mod_wsgi (pid=24070): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:52:21.543771 2017] [wsgi:error] [pid 24070:tid 140340572894976] [client 27.145.142.207:51027] Traceback (most recent call last):
+[Wed Aug 30 15:52:21.543789 2017] [wsgi:error] [pid 24070:tid 140340572894976] [client 27.145.142.207:51027]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:52:21.543793 2017] [wsgi:error] [pid 24070:tid 140340572894976] [client 27.145.142.207:51027]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:52:21.543807 2017] [wsgi:error] [pid 24070:tid 140340572894976] [client 27.145.142.207:51027] ImportError: No module named 'django'
+[Wed Aug 30 15:52:21.630864 2017] [wsgi:error] [pid 24070:tid 140340640036608] [client 27.145.142.207:57120] mod_wsgi (pid=24070): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:21.630910 2017] [wsgi:error] [pid 24070:tid 140340640036608] [client 27.145.142.207:57120] mod_wsgi (pid=24070): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:21.630985 2017] [wsgi:error] [pid 24070:tid 140340640036608] [client 27.145.142.207:57120] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:21.631010 2017] [wsgi:error] [pid 24070:tid 140340640036608] [client 27.145.142.207:57120]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:21.631023 2017] [wsgi:error] [pid 24070:tid 140340640036608] [client 27.145.142.207:57120]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:52:21.631040 2017] [wsgi:error] [pid 24070:tid 140340640036608] [client 27.145.142.207:57120] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:55:37.050015 2017] [wsgi:error] [pid 24071:tid 140340631643904] [client 27.145.142.207:51053] mod_wsgi (pid=24071): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:55:37.050078 2017] [wsgi:error] [pid 24071:tid 140340631643904] [client 27.145.142.207:51053] mod_wsgi (pid=24071): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:55:37.050152 2017] [wsgi:error] [pid 24071:tid 140340631643904] [client 27.145.142.207:51053] Traceback (most recent call last):
+[Wed Aug 30 15:55:37.050172 2017] [wsgi:error] [pid 24071:tid 140340631643904] [client 27.145.142.207:51053]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:55:37.050176 2017] [wsgi:error] [pid 24071:tid 140340631643904] [client 27.145.142.207:51053]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:55:37.050192 2017] [wsgi:error] [pid 24071:tid 140340631643904] [client 27.145.142.207:51053] ImportError: No module named 'django'
+[Wed Aug 30 15:55:37.180022 2017] [wsgi:error] [pid 24071:tid 140340715570944] [client 27.145.142.207:47110] mod_wsgi (pid=24071): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:55:37.180067 2017] [wsgi:error] [pid 24071:tid 140340715570944] [client 27.145.142.207:47110] mod_wsgi (pid=24071): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:55:37.180138 2017] [wsgi:error] [pid 24071:tid 140340715570944] [client 27.145.142.207:47110] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:55:37.180160 2017] [wsgi:error] [pid 24071:tid 140340715570944] [client 27.145.142.207:47110]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:55:37.180164 2017] [wsgi:error] [pid 24071:tid 140340715570944] [client 27.145.142.207:47110]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:55:37.180179 2017] [wsgi:error] [pid 24071:tid 140340715570944] [client 27.145.142.207:47110] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:55:46.907291 2017] [wsgi:error] [pid 24208:tid 140205152434048] mod_wsgi (pid=24208): Call to 'site.addsitedir()' failed for '(null)', stopping.
+[Wed Aug 30 15:55:46.907321 2017] [wsgi:error] [pid 24208:tid 140205152434048] mod_wsgi (pid=24208): Call to 'site.addsitedir()' failed for '/home/ubuntu/syot-project/env/lib/python3.6/site-packages'.
+[Wed Aug 30 15:55:52.918153 2017] [wsgi:error] [pid 24210:tid 140204878804736] [client 27.145.142.207:51056] mod_wsgi (pid=24210): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module.
+[Wed Aug 30 15:55:52.918197 2017] [wsgi:error] [pid 24210:tid 140204878804736] [client 27.145.142.207:51056] mod_wsgi (pid=24210): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'.
+[Wed Aug 30 15:55:52.918358 2017] [wsgi:error] [pid 24210:tid 140204878804736] [client 27.145.142.207:51056] Traceback (most recent call last):
+[Wed Aug 30 15:55:52.918376 2017] [wsgi:error] [pid 24210:tid 140204878804736] [client 27.145.142.207:51056]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>
+[Wed Aug 30 15:55:52.918379 2017] [wsgi:error] [pid 24210:tid 140204878804736] [client 27.145.142.207:51056]     from django.core.wsgi import get_wsgi_application
+[Wed Aug 30 15:55:52.918399 2017] [wsgi:error] [pid 24210:tid 140204878804736] [client 27.145.142.207:51056] ImportError: No module named 'django'
+[Wed Aug 30 15:55:54.030372 2017] [wsgi:error] [pid 24209:tid 140204979517184] [client 27.145.142.207:13552] mod_wsgi (pid=24209): Target WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py' cannot be loaded as Python module., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:55:54.030421 2017] [wsgi:error] [pid 24209:tid 140204979517184] [client 27.145.142.207:13552] mod_wsgi (pid=24209): Exception occurred processing WSGI script '/home/ubuntu/syot-project/syot/syot/wsgi.py'., referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:55:54.030589 2017] [wsgi:error] [pid 24209:tid 140204979517184] [client 27.145.142.207:13552] Traceback (most recent call last):, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:55:54.030610 2017] [wsgi:error] [pid 24209:tid 140204979517184] [client 27.145.142.207:13552]   File "/home/ubuntu/syot-project/syot/syot/wsgi.py", line 12, in <module>, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:55:54.030614 2017] [wsgi:error] [pid 24209:tid 140204979517184] [client 27.145.142.207:13552]     from django.core.wsgi import get_wsgi_application, referer: http://www.syotshop.xyz/
+[Wed Aug 30 15:55:54.030626 2017] [wsgi:error] [pid 24209:tid 140204979517184] [client 27.145.142.207:13552] ImportError: No module named 'django', referer: http://www.syotshop.xyz/
+[Wed Aug 30 16:00:37.943578 2017] [wsgi:error] [pid 24344:tid 140205152434048] mod_wsgi (pid=24344): Call to 'site.addsitedir()' failed for '(null)', stopping.
+[Wed Aug 30 16:00:37.943611 2017] [wsgi:error] [pid 24344:tid 140205152434048] mod_wsgi (pid=24344): Call to 'site.addsitedir()' failed for '/home/ubuntu/syot-project/env/lib/python3.6/site-packages'.
