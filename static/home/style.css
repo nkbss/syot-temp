@@ -1,7 +1,13 @@
-#boostrap-ow {
-	border-radius: : 0;
+.jumbotron {
+    border-radius: 0px;
 }
 
-.center {
-	margin: auto;
+/*.card {
+	margin: 0 auto;
+	float: none;
+	margin-bottom: 10px; 
+}*/
+
+body {
+	background-color: #e6e6e6;
 }
