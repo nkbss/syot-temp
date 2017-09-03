@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'syotshop.xyz',
     'www.syotshop.xyz',
+    'localhost',
 ]
 
 
